@@ -4,7 +4,6 @@ import { MdHomeFilled, MdSearch } from "react-icons/md";
 import { IoLibrary } from "react-icons/io5";
 import Playlists from "./Playlists";
 
-
 export default function Sidebar() {
   return (
     <Container>
