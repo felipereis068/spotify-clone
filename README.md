@@ -19,7 +19,6 @@ Funcionalidades Principais
 
 # API Spotify
 Este projeto utiliza a API do Spotify para obter informações sobre músicas, artistas e listas de reprodução. Certifique-se de ter as credenciais necessárias para acessar a API.
-![8](https://github.com/felipereis068/spotify-clone/assets/111073491/3aa6c2cc-7e02-4cb3-b46d-3d13e4edfa89)
 ![9](https://github.com/felipereis068/spotify-clone/assets/111073491/b731bb62-295d-4629-a80a-c930f1f30661)
 ![10](https://github.com/felipereis068/spotify-clone/assets/111073491/8cc181fb-674b-4fd1-aa5d-21afde6f9c31)
 ![11](https://github.com/felipereis068/spotify-clone/assets/111073491/79b86d55-90a0-4f67-87f2-d3b2ede95c83)
